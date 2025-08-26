@@ -1,0 +1,4 @@
+keyword,locator,value
+enterText,user-name,standard_user
+enterText,password,secret_sauce
+click,login-button,
